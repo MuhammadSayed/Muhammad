@@ -7,6 +7,12 @@ html {
 }
 body { margin: 0; font-size: 14px; line-height: 1.61; font-weight: 400; font-family: 'Open Sans', sans-serif; color: #333;background: #fff;}
 
+a:hover, a:active { color: #c00; outline: 0; }
+ul { margin: 1em 0; padding: 0 0 0 20px; }
+img { border: 0; max-width: 100%; }
+
+.container { max-width: 45em; margin: 0 auto; }
+
 header { padding: 0 0.5em; color: #C90B0B; max-width: 45em; margin: 0 auto;}
 header img { border-radius: 40px; float: left; }
 header p { font-size:1.5em; font-weight: bold; padding-left: 4em;}
